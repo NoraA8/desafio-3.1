@@ -1,0 +1,11 @@
+.border {
+    border-radius: 0.3rem;
+}
+.heigh {
+    height: 86vh;
+}
+.circle {
+    width: 30px;
+     height: 30px;
+     border-radius: 50%;
+}
